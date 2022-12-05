@@ -20,3 +20,5 @@ evolutionary algorithm; PSO also uses a swarm mode which
 makes it to simultaneously search large region in the solution space of the optimized objective function. The other is
 artificial life, namely it studies the artificial systems with life
 characteristics.
+
+

@@ -22,6 +22,3 @@ artificial life, namely it studies the artificial systems with life
 characteristics.
 
 
-
-
-
